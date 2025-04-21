@@ -12,7 +12,7 @@ quad-loader expects compatible mods to have a `main.nut` file in `scripts/vscrip
 
 Afterwards, you may register your mod with quad-loader by editing the `scripts/vscripts/external/quad-loader/config.nut` and adding `addon("{your mod's name}")` to main.
 
-You may find an example at [my One-in-the-Chamber addon.](https://github.com/quad-damage/r1d-otic)
+You may find an example at [my One-in-the-Chamber addon.](https://github.com/quad-damage/r1d-oitc)
 
 ## In the future
 
