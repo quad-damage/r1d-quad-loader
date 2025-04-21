@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+        addontitle "quad-loader"
+        addonversion "1.0"
+        addonDescription "ye"
+}
