@@ -16,6 +16,6 @@ You may find an example at [my One-in-the-Chamber addon.](https://github.com/qua
 
 ## In the future
 
-Automatically generate the ``scripts/vscript/mp/_mapspawn_mp.nut`` by pulling R1Delta/CORE and editing it. This way, people won't have insane issues in the future when they run an outdated version of quad-loader. :-) 
+Automatically generate the ``scripts/vscript/mp/_mapspawn_mp.nut`` by pulling R1Delta/CORE and editing it. This way, people won't have insane issues in the future when they run an outdated version of quad-loader beacuse I didn't manually copy over the ``_mapspawn_mp.nut``. :-) 
 
-It's 2AM and I have to go to work, ok?
+It's 2AM and I have to go to work tomorrow, ok?
